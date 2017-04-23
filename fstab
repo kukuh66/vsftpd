@@ -1,0 +1,5 @@
+# /etc/fstab
+
+UUID=0E3835BD3835A49D /mnt/hdd1/till ntfs-3g auto,permissions,gid=1002,uid=1001 0 0
+UUID=400E393B0E392AF4 /mnt/hdd1/tall ntfs-3g auto,permissions,gid=1003,uid=1002 0 0
+UUID=2444CA5644CA2A7E /mnt/hdd1/tell ntfs-3g auto,permissions,gid=1004,uid=1003 0 0
